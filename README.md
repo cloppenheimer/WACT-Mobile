@@ -5,5 +5,7 @@ The WACT Mobile Medical app is a mobile device that allows patients to monitor t
 Vitals and ECG:
 ![alt-text-1](vitals.png "vitals") ![alt-text-2](ecg.png "ecg")
 
+<img src="vitals.png" width="425"/> <img src="ecg.png" width="425"/> 
+
 
 Built with Tanya Sinha, Annie Geheran, and Winnie Zheng
